@@ -1,9 +1,7 @@
 <h1 align="center">Hi ,I'm Kishore T</h1>
 <h3 align="center">AI & Machine Learning Student | Aspiring AI Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishoreconnect-labs&label=Profile%20views&color=0e75b6&style=flat" alt="kishoreconnect-labs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishoreconnect-labs" alt="kishoreconnect-labs" /></a> </p>
 
 - 💬 Ask me about **Python, AI/ML, SQL & Data Analysis**
 
