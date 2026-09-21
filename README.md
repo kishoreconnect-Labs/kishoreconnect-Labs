@@ -1,6 +1,8 @@
 <h1 align="center">Hi ,I'm Kishore T</h1>
 <h3 align="center">AI & Machine Learning Student | Aspiring AI Engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishoreconnect-labs&label=Profile%20views&color=0e75b6&style=flat" alt="kishoreconnect-labs" /> </p>
+
 
 
 - 💬 Ask me about **Python, AI/ML, SQL & Data Analysis**
